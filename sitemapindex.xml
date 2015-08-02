@@ -6,15 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://www.lztan.com/galleries/rss.xml</loc>
+  <loc>http://lztan.github.io/galleries/rss.xml</loc>
   <lastmod>2015-08-02</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://www.lztan.com/rss.xml</loc>
+  <loc>http://lztan.github.io/rss.xml</loc>
   <lastmod>2015-08-02</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://www.lztan.com/sitemap.xml</loc>
+  <loc>http://lztan.github.io/sitemap.xml</loc>
   <lastmod>2015-08-02</lastmod>
  </sitemap>
 </sitemapindex>

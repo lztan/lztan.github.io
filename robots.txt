@@ -1,2 +1,2 @@
-Sitemap: http://www.lztan.com/sitemapindex.xml
+Sitemap: http://lztan.github.io/sitemapindex.xml
 

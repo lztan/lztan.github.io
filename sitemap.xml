@@ -6,27 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://www.lztan.com/</loc>
+  <loc>http://lztan.github.io/</loc>
   <lastmod>2015-08-02</lastmod>
  </url>
  <url>
-  <loc>http://www.lztan.com/archive.html</loc>
+  <loc>http://lztan.github.io/archive.html</loc>
   <lastmod>2015-08-02</lastmod>
  </url>
  <url>
-  <loc>http://www.lztan.com/categories/</loc>
+  <loc>http://lztan.github.io/categories/</loc>
   <lastmod>2015-08-02</lastmod>
  </url>
  <url>
-  <loc>http://www.lztan.com/galleries/</loc>
+  <loc>http://lztan.github.io/galleries/</loc>
   <lastmod>2015-08-02</lastmod>
  </url>
  <url>
-  <loc>http://www.lztan.com/listings/</loc>
+  <loc>http://lztan.github.io/listings/</loc>
   <lastmod>2015-08-02</lastmod>
  </url>
  <url>
-  <loc>http://www.lztan.com/stories/about/</loc>
+  <loc>http://lztan.github.io/stories/about/</loc>
   <lastmod>2015-08-02</lastmod>
  </url>
 </urlset>
