@@ -1,0 +1,136 @@
+.. title: Publications
+.. slug: publications
+.. date: 2015-08-02 16:25:08 UTC-04:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+22. Light-induced picosecond rotational disordering of the inorganic sublattice in hybrid perovskites 
+      X Wu, LZ Tan, X Shen, T Hu, K Miyata, MT Trinh, R Li, R Coffee, S Liu, DA Egger, I Makasyuk, Q Zheng, A Fry, JS Robinson, MD Smith, B Guzelturk, HI Karunadasa, X Wang, XY Zhu, L Kronik, AM Rappe, AM Lindenberg
+        
+      Science Advances 3, e1602388 (2017) `[web] <http://advances.sciencemag.org/content/3/7/e1602388.full>`__ `[pdf] <light_induced_2017.pdf>`__
+
+21. Rashba effect in single colloidal CsPbBr3 perovskite nanocrystal detected by magneto-optical measurements
+      M Isarov, LZ Tan, MI Bodnarchuk, MV Kovalenko, AM Rappe, E Lifshitz
+        
+      Nano Lett. Article ASAP (2017) `[web] <http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.7b02248>`__ `[pdf] <rashba_effect_2017.pdf>`__
+
+
+20. Large-area synthesis of high-quality monolayer 1T'-WTe2 flakes
+      CH Naylor, WM Parkin, Z Gao, H Kang, M Noyan, RB Wexler, LZ Tan, Y Kim, CE Kehayais, F Streller, YR Zhou, R Carpick, Z Luo, YW Park, AM Rappe, M Drndic, JM Kikkawa, ATC Johnson
+        
+      2D Materials 4, 021008 (2017) `[web] <http://stacks.iop.org/2053-1583/4/i=2/a=021008>`__ `[pdf] <large_area_2017.pdf>`__
+
+
+19. Intermolecular Interactions in Hybrid Perovskites Understood from a Combined Density Functional Theory and Effective Hamiltonian Approach
+      LZ Tan, F Zheng, AM Rappe
+        
+      ACS Energy Lett. 2, 937-942 (2017) `[web] <http://dx.doi.org/10.1021/acsenergylett.7b00159>`__ `[pdf] <intermolecular_interactions_2017.pdf>`__
+
+
+18. Local Polar Fluctuations in Lead Halide Perovskite Crystals
+      O Yaffe, Y Guo, LZ Tan, DA Egger, T Hull, C Stoumpos, F Zheng, TF Heinz, L Kronik, MG Kanatzidis, JS Owen, AM Rappe, MA Pimenta, LE Brus
+        
+      Phys. Rev. Lett. 118, 136001 (2017) `[web] <http://link.aps.org/doi/10.1103/PhysRevLett.118.136001>`__ `[pdf] <local_polar_2017.pdf>`__
+
+
+17. Effective mass in bilayer graphene at low carrier densities: The role of potential disorder and electron-electron interaction
+      J Li, LZ Tan, K Zou, AA Stabile, DJ Seiwell, K Watanabe, T Taniguchi, SG Louie, J Zhu
+        
+      Phys. Rev. B 94, 161406 (2016) `[web] <http://link.aps.org/doi/10.1103/PhysRevB.94.161406>`__ `[pdf] <effective_mass_2016.pdf>`__
+
+
+
+16. Shift Current Bulk Photovoltaic Effect in Polar Materials - hybrid and oxide perovskites and beyond
+      LZ Tan, F Zheng, SM Young, F Wang, S Liu, AM Rappe
+      
+      npj Comput. Mat. 2, 16026 (2016) `[web] <http://www.nature.com/articles/npjcompumats201626>`__ `[pdf] <shift_current_2016.pdf>`__
+
+
+15. High Chloride Doping Levels Stabilize the Perovskite Phase of Cesium Lead Iodide 
+      S Dastidar, DA Egger, LZ Tan, SB Cromer, AD Dillon, S Liu, L Kronik, AM Rappe, AT Fafarman
+      
+      Nano Lett. 16 (6), 3563-3570 (2016) `[web] <http://dx.doi.org/10.1021/acs.nanolett.6b00635>`__ `[pdf] <high_chloride_2016.pdf>`__
+
+
+14. Enhancement of Bulk Photovoltaic Effect in Topological Insulators
+      LZ Tan, AM Rappe
+      
+      Phys. Rev. Lett. 116, 237402 (2016) `[web] <http://link.aps.org/doi/10.1103/PhysRevLett.116.237402>`__ `[pdf] <enhancement_bulk_2016.pdf>`__
+
+
+13. Strain-Induced Ferroelectric Topological Insulator
+      S Liu, Y Kim, LZ Tan, AM Rappe
+      
+      Nano Lett. 16 (3), 1663-1668 (2016) `[web] <http://dx.doi.org/10.1021/acs.nanolett.5b04545>`__ `[pdf] <strain_induced_2016.pdf>`__
+
+
+12. Rashba Spin-Orbit Coupling Enhanced Carrier Lifetime in CH3NH3PbI3
+      LZ Tan, F Zheng, S Liu, AM Rappe
+      
+      Nano Lett. 15 (12), 7794-7800 (2015) `[web] <http://dx.doi.org/10.1021/acs.nanolett.5b01854>`__ `[pdf] <rashba_spin_2015.pdf>`__
+
+
+11. SU(4) symmetry breaking revealed by magneto-optical spectroscopy in epitaxial graphene
+      LZ Tan, M Orlita, M Potemski, J Palmer, C Berger, WA de Heer, SG Louie, G Martinez
+        
+      Phys. Rev. B 91, 235122(2015) `[web] <http://link.aps.org/doi/10.1103/PhysRevB.91.235122>`__ `[pdf] <su4_symmetry_2015.pdf>`__
+
+10. Manipulation and Characterization of Aperiodical Graphene Structures Created in a Two-Dimensional Electron Gas
+      S Wang, LZ Tan, W Wang, SG Louie, N Lin
+        
+      Phys. Rev. Lett. 113, 196803 (2014) `[web] <http://link.aps.org/doi/10.1103/PhysRevLett.113.196803>`__ `[pdf] <manipulation_characterization_2014.pdf>`__
+
+9. Imaging and Tuning Molecular Levels at the Surface of a Gated Graphene Device
+     A Riss, S Wickenburg, LZ Tan, HZ Tsai, Y Kim, J Lu, AJ Bradley, MM Ugeda, KL Meaker, K Watanabe, T Taniguchi, A Zettl, FR Fischer, SG Louie, MF Crommie
+       
+     ACS nano 8 (6), 5395-5401 (2014) `[web] <http://dx.doi.org/10.1021/nn501459v>`__ `[pdf] <imaging_tuning_2014.pdf>`__
+
+
+8. Local Electronic and Chemical Structure of Oligo-acetylene Derivatives Formed Through Radical Cyclizations at a Surface
+     A Riss, S Wickenburg, P Gorman, LZ Tan, HZ Tsai, DG de Oteyza, YC Chen, AJ Bradley, MM Ugeda, G Etkin, SG Louie, FR Fischer, MF Crommie
+       
+     Nano Lett. 14 (5), 2251-2255 (2014) `[web] <http://dx.doi.org/10.1021/nl403791q>`__ `[pdf] <local_electronic_2014.pdf>`__
+
+7. Tuning two-dimensional band structure of Cu(111) surface-state electrons that interplay with artificial supramolecular architectures
+     S Wang, W Wang, LZ Tan, XG Li, Z Shi, G Kuang, PN Liu, SG Louie, N Lin
+       
+     Phys. Rev. B 88, 245430 (2013) `[web] <http://link.aps.org/doi/10.1103/PhysRevB.88.245430>`__ `[pdf] <tuning_two_2013.pdf>`__
+
+6. Theory of the Raman spectrum of rotated double-layer graphene
+     S Coh, LZ Tan, SG Louie, ML Cohen
+       
+     Phys. Rev. B 88, 165431 (2013) `[web] <http://link.aps.org/doi/10.1103/PhysRevB.88.165431>`__ `[pdf] <theory_raman_2013.pdf>`__
+
+5. Raman Spectroscopy Study of Rotated Double-Layer Graphene: Misorientation-Angle Dependence of Electronic Structure
+     K Kim, S Coh, LZ Tan, W Regan, JM Yuk, E Chatterjee, MF Crommie, ML Cohen, SG Louie, A Zettl
+       
+     Phys. Rev. Lett. 108, 246103 (2012) `[web] <http://link.aps.org/doi/10.1103/PhysRevLett.108.246103>`__ `[pdf] <raman_spectroscopy_2012.pdf>`__
+
+4. Resonant Excitation of Graphene K-Phonon and Intra-Landau-Level Excitons in Magneto-Optical Spectroscopy
+     M Orlita, LZ Tan, M Potemski, M Sprinkle, C Berger, WA de Heer, SG Louie, G Martinez
+       
+     Phys. Rev. Lett. 108, 247401 (2012) `[web] <http://link.aps.org/doi/10.1103/PhysRevLett.108.247401>`__ `[pdf] <resonant_excitation_2012.pdf>`__
+
+
+3. New Dirac Fermions in Periodically Modulated Bilayer Graphene
+       LZ Tan, CH Park, SG Louie
+       
+       Nano letters 11 (7), 2596-2600 (2011) `[web] <http://pubs.acs.org/doi/abs/10.1021/nl200055s>`__ `[pdf] <new_dirac_2011.pdf>`__
+
+
+
+2. Theory of the electronic and transport properties of graphene under a periodic electric or magnetic field
+     CH Park, LZ Tan, SG Louie
+       
+     Physica E 43 (3), 651-656 (2011) `[web] <http://www.sciencedirect.com/science/article/B6VMT-50P4NB1-2/2/39c45c94bddc97fcb510e87895487452>`__ `[pdf] <theory_electronic_2011.pdf>`__
+
+
+1. Graphene Dirac fermions in one-dimensional inhomogeneous field profiles: Transforming magnetic to electric field
+     LZ Tan, CH Park, SG Louie
+
+     Phys. Rev. B 81, 195426 (2010) `[web] <http://link.aps.org/doi/10.1103/PhysRevB.81.195426>`__ `[pdf] <graphene_dirac_2010.pdf>`__
+
+

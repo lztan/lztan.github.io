@@ -1,0 +1,22 @@
+.. title: About me
+.. slug: index
+.. date: 2015-08-02 17:22:58 UTC-04:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+.. image:: lzt2.png
+   :align: right
+   :width: 100 px
+
+**Links**
+
+email: liangtan at sas.upenn.edu
+
+`Google Scholar <https://scholar.google.com/citations?user=qQLD2zkAAAAJ>`_
+
+`arXiv <http://arxiv.org/a/tan_l_1.html>`_
+
+`LinkedIn <https://www.linkedin.com/pub/liang-zheng-tan/68/a78/935>`_
