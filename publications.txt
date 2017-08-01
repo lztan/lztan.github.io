@@ -12,6 +12,7 @@
         
       Science Advances 3, e1602388 (2017) `[web] <http://advances.sciencemag.org/content/3/7/e1602388.full>`__ `[pdf] <light_induced_2017.pdf>`__
 
+
 21. Rashba effect in single colloidal CsPbBr3 perovskite nanocrystal detected by magneto-optical measurements
       M Isarov, LZ Tan, MI Bodnarchuk, MV Kovalenko, AM Rappe, E Lifshitz
         
