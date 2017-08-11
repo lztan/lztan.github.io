@@ -7,6 +7,12 @@
 .. description: 
 .. type: text
 
+23. Synthesis and Physical Properties of Phase-Engineered Transition Metal Dichalcogenide Monolayer Heterostructures 
+      CH Naylor, WM Parkin, Z Gao, J Berry, S Zhou, Q Zhang, JB McClimon, LZ Tan, CE Kehayias, M-Q Zhao, RS Gona, RW Carpick, AM Rappe, DJ Srolovitz, M Drndic, ATC Johnson
+        
+      ACS Nano, Just Accepted Manuscript (2017) `[web] <http://pubs.acs.org/doi/abs/10.1021/acsnano.7b03828>`__ `[pdf] <synthesis_physical_2017.pdf>`__
+
+
 22. Light-induced picosecond rotational disordering of the inorganic sublattice in hybrid perovskites 
       X Wu, LZ Tan, X Shen, T Hu, K Miyata, MT Trinh, R Li, R Coffee, S Liu, DA Egger, I Makasyuk, Q Zheng, A Fry, JS Robinson, MD Smith, B Guzelturk, HI Karunadasa, X Wang, XY Zhu, L Kronik, AM Rappe, AM Lindenberg
         
