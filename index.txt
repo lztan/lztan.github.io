@@ -11,6 +11,8 @@
    :align: right
    :width: 100 px
 
+I'm a computational materials scientist whose goal is to understand the limits of materials and the structure of materials design space. My current research interests span photovolatics, nonlinear optics, catalysis, highly anharmonic systems, layered materials, and spin-orbit materials. 
+
 **Links**
 
 email: liangtan at sas.upenn.edu
