@@ -7,4 +7,54 @@
 .. description: 
 .. type: text
 
-Under construction.
+The limits of nonlinear optics: second harmonic generation and shift current
+============================================================================
+
+Second harnomic generation (SHG) and shift current are both nonlinear optical effects of fundamental and techonological
+interest, and it is often desirable to maximize their effects in materials.
+I have obtained theoretical upper bounds for the magnitude of the second-order susceptibilities of polar semiconductors.
+This bound reveals that these nonlinear optical effects are controlled by the ratio of the band width to the band gap,
+and by the range of long-distance hopping in the material. A comparison of these upper bounds with the response
+functions of known materials obtained from ab-initio calculations suggests that future materials research will likely
+uncover large SHG and shift current materials.
+
+
+
+Structural fluctuations of halide perovskite photovoltaics
+==========================================================
+
+The lead-halide perovskites have shown exceptional promise as high-efficiency solar cells, but much remains to be understood
+about the reason for their high efficiency, and the effect of dynamically disordered, strongly fluctuating crystal structure.
+Using molecular dynamics and computational Raman spectroscopy compared against experiment, we have identified the
+structural motifs responsible for dynamic disorder in this class of materials. Our results reveal that fluctuations of the 
+inorganic lead-halide cage and anharmonic displacive motion of A-site cations play important roles in the dynamics of these 
+materials.
+
+We have detected footprints of these structural fluctuations in excited state spectroscopy, revealing that the
+photogenerated carriers participate in non-themal cooling, preferentially exciting volume-preserving distortions of the lead-halide 
+octahedral cages. 
+
+
+Spin-orbit effects in halide perovskite photovoltaics
+=====================================================
+
+Radiative recombination is often viewed as a major, and unavoidable loss channel in photovoltaics. In the halide perovskites,
+we have postulated that spin-orbit effects are playing a role in suppressing radiative recombination, which 
+contributes to the long carrier lifetime in these materials. This is a direct consequence of the 
+Rashba effect causing spin-splitting of the valence and conduction bands. Combined experimental and theoretical efforts 
+have detected the presence of the Rashba effect in the magneto-optical spectra of CsPbBr3 nanocrystals. 
+
+
+Topological effects in nonlinear optics
+=======================================
+
+Myraid strategies have been proposed to increase the magnitude of nonlinear optical effects, such as the 
+shift current bulk photovoltaic effect. We have shown that topological insulators have the unique feature
+that their electronic band structure is often rapidly varying in reciprocal space, which
+dramatically enhances the bulk photovoltaic effect. Tuning a normal insulator to a band inversion transition
+is predicted to cause an abrupt reversal of the bulk photocurrent, concurrent with a large enhancement.
+
+
+Electronic structure of 2D materials
+====================================
+
