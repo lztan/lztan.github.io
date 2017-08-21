@@ -10,7 +10,7 @@
 The limits of nonlinear optics: second harmonic generation and shift current
 ============================================================================
 
-Second harnomic generation (SHG) and shift current are both nonlinear optical effects of fundamental and techonological
+Second harmonic generation (SHG) and shift current are both nonlinear optical effects of fundamental and techonological
 interest, and it is often desirable to maximize their effects in materials.
 I have obtained theoretical upper bounds for the magnitude of the second-order susceptibilities of polar semiconductors.
 This bound reveals that these nonlinear optical effects are controlled by the ratio of the band width to the band gap,
@@ -32,7 +32,7 @@ Using molecular dynamics and computational Raman spectroscopy compared against e
 structural motifs responsible for dynamic disorder in this class of materials. Our results reveal that fluctuations of the 
 inorganic lead-halide cage and anharmonic displacive motion of A-site cations play important roles in the dynamics of these 
 materials. We have detected footprints of these structural fluctuations in ultrafast electron diffraction, revealing that the
-photogenerated carriers participate in non-themal cooling, preferentially exciting volume-preserving distortions of the lead-halide 
+photogenerated carriers participate in non-thermal cooling, preferentially exciting volume-preserving distortions of the lead-halide 
 octahedral cages. 
 
 `[Phys. Rev. Lett. 118, 136001 (2017)] <http://link.aps.org/doi/10.1103/PhysRevLett.118.136001>`__
