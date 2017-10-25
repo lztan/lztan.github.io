@@ -7,10 +7,11 @@
 .. description: 
 .. type: text
 
+
 24. Polarized emission in II-VI and perovskite colloidal quantum dots
       M Isarov, LZ Tan, J Tilchin, FT Rabouw, MI Bodnarchuk, RJA van Dijk-Moes, R Carmi, Y Barak, A Kostadinov, I Meir, D Vanmaekelbergh, MV Kovalenko, AM Rappe and E Lifshitz
-        
-      J. Phys. B: At. Mol. Opt. Phys. 50, 214001 (2017) `[web] <https://doi.org/10.1088/1361-6455/aa8dd4>`__ `[pdf] <polarized_emission_2017.pdf>`__
+
+      J\. Phys. B: At. Mol. Opt. Phys. 50, 214001 (2017) `[web] <https://doi.org/10.1088/1361-6455/aa8dd4>`__ `[pdf] <polarized_emission_2017.pdf>`__
 
 
 23. Synthesis and Physical Properties of Phase-Engineered Transition Metal Dichalcogenide Monolayer Heterostructures 
