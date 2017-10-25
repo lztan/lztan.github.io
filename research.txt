@@ -10,6 +10,11 @@
 The limits of nonlinear optics: second harmonic generation and shift current
 ============================================================================
 
+.. image:: scbound.png
+   :align: left
+   :width: 300 px
+
+
 Second harmonic generation (SHG) and shift current are both nonlinear optical effects of fundamental and techonological
 interest, and it is often desirable to maximize their effects in materials.
 I have obtained theoretical upper bounds for the magnitude of the second-order susceptibilities of polar semiconductors.
@@ -22,9 +27,16 @@ uncover large SHG and shift current materials.
 
 `[arxiv] <https://arxiv.org/abs/1708.05433>`__
 
+----------------------------------------------------------
+
 
 Structural fluctuations of halide perovskite photovoltaics
 ==========================================================
+
+.. image:: cspbbr3.png
+   :align: left
+   :width: 300 px
+
 
 The lead-halide perovskites have shown exceptional promise as high-efficiency solar cells, but much remains to be understood
 about the reason for their high efficiency, and the effect of dynamically disordered, strongly fluctuating crystal structure.
@@ -39,6 +51,12 @@ octahedral cages.
 
 `[Science Advances 3, e1602388 (2017)] <http://advances.sciencemag.org/content/3/7/e1602388.full>`__
 
+
+.. image:: hist.jpeg
+   :align: left
+   :width: 300 px
+
+
 Besides these dynamical considerations, we have also shown how halide doping plays an important role in improving the stability
 of these materials. In the hybrid organic-inorganic perovskites, we showed that hydrogen bonds mediate an effective
 non-dipolar coupling, driving the structural phase transitions of the system.
@@ -48,9 +66,15 @@ non-dipolar coupling, driving the structural phase transitions of the system.
 `[ACS Energy Lett. 2, 937-942 (2017)] <http://dx.doi.org/10.1021/acsenergylett.7b00159>`__
 
 
+&&&&&&&&&&&&&&&&&&&&&&&
 
 Spin-orbit effects in halide perovskite photovoltaics
 =====================================================
+
+.. image:: rashba.jpeg
+   :align: left
+   :width: 300 px
+
 
 Radiative recombination is often viewed as a major, and unavoidable loss channel in photovoltaics. In the halide perovskites,
 we have postulated that spin-orbit effects are playing a role in suppressing radiative recombination, which 
@@ -60,13 +84,18 @@ have detected the presence of the Rashba effect in the magneto-optical spectra o
 
 `[Nano Lett. 15 (12), 7794-7800 (2015)] <http://dx.doi.org/10.1021/acs.nanolett.5b01854>`__
 
-`[Nano Lett. Article ASAP (2017)] <http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.7b02248>`__
+`[Nano Lett. 17 (8), 5020-5026 (2017)] <http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.7b02248>`__
 
 `[arxiv] <https://arxiv.org/abs/1708.05436>`__
 
+&&&&&&&&&&&&&&&&&&&&&&&
 
 Topological effects in nonlinear optics
 =======================================
+
+.. image:: bitei.png
+   :align: left
+   :width: 300 px
 
 Myriad strategies have been proposed to increase the magnitude of nonlinear optical effects, such as the 
 shift current bulk photovoltaic effect. We have shown that topological insulators have the unique feature
@@ -78,6 +107,7 @@ is predicted to cause an abrupt reversal of the bulk photocurrent, concurrent wi
 
 `[Nano Lett. 16 (3), 1663-1668 (2016)] <http://dx.doi.org/10.1021/acs.nanolett.5b04545>`__
 
+&&&&&&&&&&&&&&&&&&&&&&&
 
 Hybrid functional pseudopotentials
 ==================================
@@ -90,7 +120,26 @@ showing that they give a consistent improvement in band gap energies and structu
 
 `[arxiv] <https://arxiv.org/abs/1707.04501>`__
 
+&&&&&&&&&&&&&&&&&&&&&&&
 
-Electronic structure of 2D materials
-====================================
+Controlling the electronic structure of 2D materials: graphene and supramolecular networks
+==========================================================================================
+
+.. image:: btc1.png
+   :align: left
+   :width: 300 px
+
+
+I have shown that the electronic bands of two dimensional carbon can be strongly modified by seemingly benign structural modifications: such as the stacking of two mutually rotated graphene sheets, or by the application of periodic electric or magnetic fields. The electronic structure of self-assembled molecular networks can mimic that of graphene, depending on their geometry. This opens possibilities for high mobility molecular electronics.
+
+`[Phys. Rev. Lett. 113, 196803 (2014)] <http://link.aps.org/doi/10.1103/PhysRevLett.113.196803>`__
+
+`[Phys. Rev. Lett. 108, 246103 (2012)] <http://link.aps.org/doi/10.1103/PhysRevLett.108.246103>`__
+
+`[Phys. Rev. Lett. 108, 247401 (2012)] <http://link.aps.org/doi/10.1103/PhysRevLett.108.247401>`__
+
+`[Nano letters 11 (7), 2596-2600 (2011)] <http://pubs.acs.org/doi/abs/10.1021/nl200055s>`__
+
+`[Phys. Rev. B 81, 195426 (2010)] <http://link.aps.org/doi/10.1103/PhysRevB.81.195426>`__
+
 

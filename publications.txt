@@ -7,10 +7,16 @@
 .. description: 
 .. type: text
 
+24. Polarized emission in II-VI and perovskite colloidal quantum dots
+      M Isarov, LZ Tan, J Tilchin, FT Rabouw, MI Bodnarchuk, RJA van Dijk-Moes, R Carmi, Y Barak, A Kostadinov, I Meir, D Vanmaekelbergh, MV Kovalenko, AM Rappe and E Lifshitz
+        
+      J. Phys. B: At. Mol. Opt. Phys. 50, 214001 (2017) `[web] <https://doi.org/10.1088/1361-6455/aa8dd4>`__ `[pdf] <polarized_emission_2017.pdf>`__
+
+
 23. Synthesis and Physical Properties of Phase-Engineered Transition Metal Dichalcogenide Monolayer Heterostructures 
       CH Naylor, WM Parkin, Z Gao, J Berry, S Zhou, Q Zhang, JB McClimon, LZ Tan, CE Kehayias, M-Q Zhao, RS Gona, RW Carpick, AM Rappe, DJ Srolovitz, M Drndic, ATC Johnson
         
-      ACS Nano, Just Accepted Manuscript (2017) `[web] <http://pubs.acs.org/doi/abs/10.1021/acsnano.7b03828>`__ `[pdf] <synthesis_physical_2017.pdf>`__
+      ACS Nano 11, 8619 (2017) `[web] <http://pubs.acs.org/doi/abs/10.1021/acsnano.7b03828>`__ `[pdf] <synthesis_physical_2017.pdf>`__
 
 
 22. Light-induced picosecond rotational disordering of the inorganic sublattice in hybrid perovskites 
@@ -22,7 +28,7 @@
 21. Rashba effect in single colloidal CsPbBr3 perovskite nanocrystal detected by magneto-optical measurements
       M Isarov, LZ Tan, MI Bodnarchuk, MV Kovalenko, AM Rappe, E Lifshitz
         
-      Nano Lett. Article ASAP (2017) `[web] <http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.7b02248>`__ `[pdf] <rashba_effect_2017.pdf>`__
+      Nano Lett. 17 (8), 5020-5026 (2017) `[web] <http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.7b02248>`__ `[pdf] <rashba_effect_2017.pdf>`__
 
 
 20. Large-area synthesis of high-quality monolayer 1T'-WTe2 flakes
@@ -75,7 +81,7 @@
 
 
 12. Rashba Spin-Orbit Coupling Enhanced Carrier Lifetime in CH3NH3PbI3
-      LZ Tan, F Zheng, S Liu, AM Rappe
+      F Zheng, LZ Tan, S Liu, AM Rappe
       
       Nano Lett. 15 (12), 7794-7800 (2015) `[web] <http://dx.doi.org/10.1021/acs.nanolett.5b01854>`__ `[pdf] <rashba_spin_2015.pdf>`__
 
