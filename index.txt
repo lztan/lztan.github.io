@@ -11,7 +11,11 @@
    :align: right
    :width: 100 px
 
-I'm a computational scientist whose goal is to understand the limits of materials and the structure of materials design space. My current research interests span photovolatics, nonlinear optics, catalysis, highly anharmonic systems, layered materials, and spin-orbit materials. 
+.. role:: red
+
+:red:`News: I will be relocating to the Molecular Foundry at the Lawrence Berkeley Lab in fall 2018. I am looking to hire a talented postdoc in theoretical and computational nanoscience. Research will be in the areas of excited state phenomena, electron-phonon interactions, and materials design for optoelectronics.` 
+
+I'm a computational scientist whose goal is to understand the limits of materials and the structure of materials design space. My current research interests span photovolatics, nonlinear optics, highly anharmonic systems, layered materials, and spin-orbit materials. 
 
 **Links**
 
