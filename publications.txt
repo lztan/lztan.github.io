@@ -8,6 +8,24 @@
 .. type: text
 
 
+27. Molecule-adsorbed topological insulator and metal surfaces: a comparative first principles study
+      S Sarkar, J Yang, LZ Tan, AM Rappe and L Kronik
+
+      Chem. Mater. 30, 1849-1855 (2018) `[web] <http://dx.doi.org/10.1021/acs.chemmater.7b03176>`__ `[pdf] <molecule-adsorbed_topological_2018.pdf>`__
+
+
+26. Spin-orbit enhanced carrier lifetimes in noncentrosymmetric semiconductors
+      LZ Tan and AM Rappe
+
+      J\. Phys. Chem. Sol. article ASAP (2018) `[web] <https://doi.org/10.1016/j.jpcs.2018.02.016>`__ `[pdf] <spin-orbit_enhanced_2018.pdf>`__
+
+
+25. Hybrid functional pseudopotentials
+      J Yang, LZ Tan and AM Rappe
+
+      Phys. Rev. B 97, 085130 (2018) `[web] <https://doi.org/10.1103/PhysRevB.97.085130>`__ `[pdf] <hybrid_functional_2018.pdf>`__
+
+
 24. Polarized emission in II-VI and perovskite colloidal quantum dots
       M Isarov, LZ Tan, J Tilchin, FT Rabouw, MI Bodnarchuk, RJA van Dijk-Moes, R Carmi, Y Barak, A Kostadinov, I Meir, D Vanmaekelbergh, MV Kovalenko, AM Rappe and E Lifshitz
 

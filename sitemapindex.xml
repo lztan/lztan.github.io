@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://lztan.github.io/galleries/rss.xml</loc>
-  <lastmod>2017-10-06</lastmod>
+  <lastmod>2018-05-08</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://lztan.github.io/rss.xml</loc>
@@ -15,6 +15,6 @@
  </sitemap>
  <sitemap>
   <loc>http://lztan.github.io/sitemap.xml</loc>
-  <lastmod>2017-10-25</lastmod>
+  <lastmod>2018-05-08</lastmod>
  </sitemap>
 </sitemapindex>
