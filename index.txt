@@ -34,3 +34,5 @@ email: liangtan at sas.upenn.edu
    <a href="https://orcid.org/0000-0003-4724-6369" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-4724-6369</a>
 
 `LinkedIn <https://www.linkedin.com/pub/liang-zheng-tan/68/a78/935>`_
+
+`CV <cv.pdf>`__
