@@ -8,6 +8,12 @@
 .. type: text
 
 
+28. Anion exchange in II-VI semiconducting nanostructures via atomic templating
+      R Agarwal, NM Krook, ML Ren, LZ Tan, W Liu, AM Rappe and R Agarwal
+
+      Nano Lett. 18, 1620-1627 (2018) `[web] <http://dx.doi.org/10.1021/acs.nanolett.7b04424>`__ `[pdf] <anion_exchange_2018.pdf>`__
+
+
 27. Molecule-adsorbed topological insulator and metal surfaces: a comparative first principles study
       S Sarkar, J Yang, LZ Tan, AM Rappe and L Kronik
 
