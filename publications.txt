@@ -7,6 +7,11 @@
 .. description: 
 .. type: text
 
+29. Enhancing ferroelectric photovoltaic effect by polar order engineering
+      L You, F Zheng, L Fang, Y Zhou, LZ Tan, Z Zhang, G Ma, D Schmidt, A Rusydi, L Wang, L Chang, AM Rappe and J Wang
+
+      Sci. Adv. 4, eaat3438 (2018) `[web] <http://dx.doi.org/10.1126/sciadv.aat3438>`__ `[pdf] <enhancing_ferroelectric_2018.pdf>`__
+
 
 28. Anion exchange in II-VI semiconducting nanostructures via atomic templating
       R Agarwal, NM Krook, ML Ren, LZ Tan, W Liu, AM Rappe and R Agarwal
