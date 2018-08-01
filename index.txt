@@ -10,7 +10,7 @@
 
 .. role:: red
 
-:red:`News: I will be relocating to the Molecular Foundry at the Lawrence Berkeley Lab in fall 2018. I am looking to hire a talented postdoc in first-principles computational nanoscience. Research will be in the areas of excited state phenomena, electron-phonon interactions, and materials design for optoelectronics. Please contact me if interested!` 
+:red:`News: I will be relocating to the Molecular Foundry at the Lawrence Berkeley Lab in fall 2018.` 
 
 About me
 ========
